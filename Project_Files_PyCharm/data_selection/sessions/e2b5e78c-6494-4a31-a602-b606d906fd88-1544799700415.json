@@ -1,0 +1,238 @@
+{ 
+    "_id" : "e2b5e78c-6494-4a31-a602-b606d906fd88-1544799700415", 
+    "buid" : [
+        "r380ahnwbPM55FLHglse2ayyGVmfetsogk2SVrVviP2O5pLslXLmZzUwkl3nbACKqvDd"
+    ], 
+    "user_agent" : {
+        "os" : {
+            "familiy" : "Windows", 
+            "version" : [
+                NumberInt(10)
+            ], 
+            "version_string" : "10"
+        }, 
+        "browser" : {
+            "familiy" : "Chrome", 
+            "version" : [
+                NumberInt(71), 
+                NumberInt(0), 
+                NumberInt(3578)
+            ], 
+            "version_string" : "71.0.3578"
+        }, 
+        "device" : {
+            "family" : "Other", 
+            "brand" : null, 
+            "model" : null
+        }, 
+        "flags" : {
+            "is_bot" : false, 
+            "is_email_client" : false, 
+            "is_mobile" : false, 
+            "is_pc" : true, 
+            "is_tablet" : false, 
+            "is_touch_capable" : false
+        }, 
+        "accept" : {
+            "language" : "nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7", 
+            "protocols" : "application/json, text/javascript, */*; q=0.01"
+        }, 
+        "identifier" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+    }, 
+    "session_start" : ISODate("2018-12-14T15:01:33.485+0000"), 
+    "session_end" : ISODate("2018-12-14T15:13:12.575+0000"), 
+    "has_sale" : false, 
+    "order" : {
+        "total" : null, 
+        "id" : null
+    }, 
+    "cg_treated" : false, 
+    "tg_treated" : true, 
+    "events" : [
+        {
+            "t" : ISODate("2018-12-14T15:01:33.485+0000"), 
+            "source" : "eventtracker", 
+            "action" : "session_start", 
+            "pagetype" : null, 
+            "product" : null, 
+            "time_on_page" : null, 
+            "max_time_inactive" : null, 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:01:40.215+0000"), 
+            "source" : "eventtracker", 
+            "action" : "tg_load_recommendation", 
+            "pagetype" : null, 
+            "product" : null, 
+            "time_on_page" : null, 
+            "max_time_inactive" : null, 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:01:56.293+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null, 
+            "time_on_page" : NumberInt(0), 
+            "max_time_inactive" : NumberInt(0), 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:02:01.729+0000"), 
+            "source" : "eventtracker", 
+            "action" : "tg_load_recommendation", 
+            "pagetype" : null, 
+            "product" : null, 
+            "time_on_page" : null, 
+            "max_time_inactive" : null, 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:02:14.799+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null, 
+            "time_on_page" : NumberInt(14), 
+            "max_time_inactive" : NumberInt(3), 
+            "click_count" : NumberInt(1), 
+            "elements_clicked" : NumberInt(1), 
+            "scrolls_down" : NumberInt(4), 
+            "scrolls_up" : NumberInt(0)
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:02:21.488+0000"), 
+            "source" : "eventtracker", 
+            "action" : "tg_load_recommendation", 
+            "pagetype" : null, 
+            "product" : null, 
+            "time_on_page" : null, 
+            "max_time_inactive" : null, 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:02:22.602+0000"), 
+            "source" : "eventtracker", 
+            "action" : "tg_show_recommendation", 
+            "pagetype" : null, 
+            "product" : null, 
+            "time_on_page" : null, 
+            "max_time_inactive" : null, 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:02:46.571+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null, 
+            "time_on_page" : NumberInt(28), 
+            "max_time_inactive" : NumberInt(15), 
+            "click_count" : NumberInt(1), 
+            "elements_clicked" : NumberInt(1), 
+            "scrolls_down" : NumberInt(5), 
+            "scrolls_up" : NumberInt(1)
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:02:49.418+0000"), 
+            "source" : "eventtracker", 
+            "action" : "tg_load_recommendation", 
+            "pagetype" : null, 
+            "product" : null, 
+            "time_on_page" : null, 
+            "max_time_inactive" : null, 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:02:55.387+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null, 
+            "time_on_page" : NumberInt(5), 
+            "max_time_inactive" : NumberInt(3), 
+            "click_count" : NumberInt(1), 
+            "elements_clicked" : NumberInt(1), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:02:59.547+0000"), 
+            "source" : "eventtracker", 
+            "action" : "tg_load_recommendation", 
+            "pagetype" : null, 
+            "product" : null, 
+            "time_on_page" : null, 
+            "max_time_inactive" : null, 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:03:00.749+0000"), 
+            "source" : "eventtracker", 
+            "action" : "tg_show_recommendation", 
+            "pagetype" : null, 
+            "product" : null, 
+            "time_on_page" : null, 
+            "max_time_inactive" : null, 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:12:22.920+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null, 
+            "time_on_page" : NumberInt(521), 
+            "max_time_inactive" : NumberInt(511), 
+            "click_count" : NumberInt(6), 
+            "elements_clicked" : NumberInt(1), 
+            "scrolls_down" : NumberInt(0), 
+            "scrolls_up" : NumberInt(0)
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:13:12.575+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null, 
+            "time_on_page" : NumberInt(46), 
+            "max_time_inactive" : NumberInt(16), 
+            "click_count" : NumberInt(1), 
+            "elements_clicked" : NumberInt(1), 
+            "scrolls_down" : NumberInt(4), 
+            "scrolls_up" : NumberInt(0)
+        }
+    ], 
+    "segment" : "BROWSER", 
+    "clean_cg_tg" : "cg"
+}
+ 

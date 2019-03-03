@@ -1,0 +1,109 @@
+{ 
+    "_id" : "53d45da5-3d52-4d49-a232-0ccce2b1f32f-1544800659755", 
+    "buid" : [
+        "r382J5fByvKWg0t4jD35ZNZjhoQG7fxfS1Mt336XyZjFWMr6vGe9Y4RiEP11KyAnAt8D"
+    ], 
+    "user_agent" : {
+        "os" : {
+            "familiy" : "Windows", 
+            "version" : [
+                NumberInt(10)
+            ], 
+            "version_string" : "10"
+        }, 
+        "browser" : {
+            "familiy" : "Edge", 
+            "version" : [
+                NumberInt(17), 
+                NumberInt(17134)
+            ], 
+            "version_string" : "17.17134"
+        }, 
+        "device" : {
+            "family" : "Other", 
+            "brand" : null, 
+            "model" : null
+        }, 
+        "flags" : {
+            "is_bot" : false, 
+            "is_email_client" : false, 
+            "is_mobile" : false, 
+            "is_pc" : true, 
+            "is_tablet" : false, 
+            "is_touch_capable" : false
+        }, 
+        "accept" : {
+            "language" : "nl-NL,nl;q=0.8,en-US;q=0.5,en;q=0.3", 
+            "protocols" : "application/json, text/javascript, */*; q=0.01"
+        }, 
+        "identifier" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+    }, 
+    "session_start" : ISODate("2018-12-14T15:17:40.483+0000"), 
+    "session_end" : ISODate("2018-12-14T15:18:45.023+0000"), 
+    "has_sale" : false, 
+    "order" : {
+        "total" : null, 
+        "id" : null
+    }, 
+    "cg_treated" : false, 
+    "tg_treated" : false, 
+    "events" : [
+        {
+            "t" : ISODate("2018-12-14T15:17:40.483+0000"), 
+            "source" : "eventtracker", 
+            "action" : "session_start", 
+            "pagetype" : null, 
+            "product" : null, 
+            "time_on_page" : null, 
+            "max_time_inactive" : null, 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:18:45.023+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "INF", 
+            "product" : null, 
+            "time_on_page" : NumberInt(65), 
+            "max_time_inactive" : NumberInt(37), 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }
+    ], 
+    "segment" : "BROWSER", 
+    "clean_cg_tg" : "tg", 
+    "utm_sources" : [
+        {
+            "utm_source" : [
+                "folder"
+            ], 
+            "utm_medium" : [
+                "cpc"
+            ], 
+            "utm_campaign" : [
+                "week-50"
+            ], 
+            "utm_term" : null, 
+            "utm_content" : null, 
+            "t" : ISODate("2018-12-14T15:18:45.023+0000")
+        }
+    ], 
+    "sources" : [
+        {
+            "full_url" : "https://view.publitas.com/op-op-voordeelshop/op-op-voordeelshop-folder-week-50-da_ordzzmx7g/page/4?publitas_embed=maximized", 
+            "netloc" : "view.publitas.com", 
+            "params" : {
+                "publitas_embed" : [
+                    "maximized"
+                ]
+            }, 
+            "t" : ISODate("2018-12-14T15:18:45.023+0000")
+        }
+    ]
+}
+ 

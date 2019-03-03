@@ -1,0 +1,1155 @@
+{
+    "_id": "2583",
+    "_preferences": [
+        "brand.Andrelon",
+        "category.Gezond & verzorging",
+        "gender.Vrouw",
+        "sub_category.Haarverzorging",
+        "sub_sub_category.Shampoo",
+        "promos.3 voor 6",
+        "product_size.300 ml"
+    ],
+    "brand": "Andrelon",
+    "category": "Gezond & verzorging",
+    "color": null,
+    "deeplink": "https://www.opisopvoordeelshop.nl/andrelon-shampoo-2-in-1-300-ml",
+    "description": "2 in 1 is een verzorgende shampoo en conditioner ineen. Het biedt de juiste combinatie tussen een frisse reiniging en een mild voedende verzorging. Met 2 in 1 is je haar gezond, glanzend en makkelijk doorkambaar. Je haar is weer helemaal fris.&nbsp;",
+    "fast_mover": false,
+    "flavor": null,
+    "gender": "Vrouw",
+    "herhaalaankopen": true,
+    "images": [
+        [
+            "https://www.opisopvoordeelshop.nl/pub/media/catalog/product/cache/small_image/160x160/beff4985b56e3afdbeabfc89641a4582/2/5/2583_1_1.png",
+            "https://www.opisopvoordeelshop.nl/pub/media/catalog/product/2/5/2583_1_1.png"
+        ]
+    ],
+    "name": "Andrélon Shampoo 2 In 1 300 ml",
+    "predict_out_of_stock_date": "2018-12-27",
+    "price": {
+        "cost_price": null,
+        "deeplink": null,
+        "description": null,
+        "discount": NumberInt(300),
+        "id": null,
+        "images": [],
+        "label": null,
+        "mrsp": NumberInt(229),
+        "name": null,
+        "properties": null,
+        "recommendable": false,
+        "selling_price": NumberInt(229)
+    },
+    "properties": {
+        "availability": "24",
+        "bundel_sku": "38815",
+        "cost_price": "18",
+        "discount": "3 voor 6",
+        "doelgroep": "Vrouwen",
+        "eenheid": "ml",
+        "factor": null,
+        "folder_actief": "Disabled",
+        "gebruik": null,
+        "geschiktvoor": null,
+        "geursoort": null,
+        "huidconditie": null,
+        "huidtype": null,
+        "huidtypegezicht": null,
+        "inhoud": "300 ml",
+        "klacht": "}",
+        "kleur": null,
+        "leeftijd": null,
+        "mid": "953",
+        "online_only": null,
+        "serie": "2 in 1",
+        "soort": "Shampoo",
+        "soorthaarverzorging": null,
+        "soortmondverzorging": null,
+        "sterkte": null,
+        "stock": "24",
+        "tax": "BTW_Hoog",
+        "type": null,
+        "typehaarkleuring": null,
+        "typetandenborstel": null,
+        "variant": null,
+        "waterproof": null,
+        "weekdeal": false,
+        "weekdeal_from": null,
+        "weekdeal_to": null
+    },
+    "recommendable": true,
+    "rivals": [
+        {
+            "name": "drogistplein.nl",
+            "price": NumberInt(139)
+        },
+        {
+            "name": "drogisterij.net",
+            "price": NumberInt(249)
+        },
+        {
+            "name": "drogist.nl",
+            "price": NumberInt(359)
+        },
+        {
+            "name": "drogist.nl",
+            "price": NumberInt(379)
+        },
+        {
+            "name": "kruidvat.nl",
+            "price": NumberInt(379)
+        },
+        {
+            "name": "ah.nl",
+            "price": NumberInt(379)
+        }
+    ],
+    "size": null,
+    "sm": {
+        "is_active": true,
+        "last_updated": ISODate("2018-12-14T03:51:34.069+0000"),
+        "rivals_updated": "2018-12-14 03:51:34.061337",
+        "type": "dict"
+    },
+    "stock": [
+        {
+            "date": "2018-03-29",
+            "stock_level": NumberInt(13)
+        },
+        {
+            "date": "2018-03-30",
+            "stock_level": NumberInt(61)
+        },
+        {
+            "date": "2018-03-31",
+            "stock_level": NumberInt(61)
+        },
+        {
+            "date": "2018-04-01",
+            "stock_level": NumberInt(61)
+        },
+        {
+            "date": "2018-04-02",
+            "stock_level": NumberInt(61)
+        },
+        {
+            "date": "2018-04-03",
+            "stock_level": NumberInt(61)
+        },
+        {
+            "date": "2018-04-04",
+            "stock_level": NumberInt(61)
+        },
+        {
+            "date": "2018-04-05",
+            "stock_level": NumberInt(58)
+        },
+        {
+            "date": "2018-04-06",
+            "stock_level": NumberInt(130)
+        },
+        {
+            "date": "2018-04-07",
+            "stock_level": NumberInt(127)
+        },
+        {
+            "date": "2018-04-08",
+            "stock_level": NumberInt(127)
+        },
+        {
+            "date": "2018-04-09",
+            "stock_level": NumberInt(127)
+        },
+        {
+            "date": "2018-04-10",
+            "stock_level": NumberInt(109)
+        },
+        {
+            "date": "2018-04-11",
+            "stock_level": NumberInt(109)
+        },
+        {
+            "date": "2018-04-12",
+            "stock_level": NumberInt(106)
+        },
+        {
+            "date": "2018-04-13",
+            "stock_level": NumberInt(103)
+        },
+        {
+            "date": "2018-04-14",
+            "stock_level": NumberInt(103)
+        },
+        {
+            "date": "2018-04-15",
+            "stock_level": NumberInt(103)
+        },
+        {
+            "date": "2018-04-16",
+            "stock_level": NumberInt(103)
+        },
+        {
+            "date": "2018-04-17",
+            "stock_level": NumberInt(100)
+        },
+        {
+            "date": "2018-04-18",
+            "stock_level": NumberInt(97)
+        },
+        {
+            "date": "2018-04-19",
+            "stock_level": NumberInt(91)
+        },
+        {
+            "date": "2018-04-20",
+            "stock_level": NumberInt(91)
+        },
+        {
+            "date": "2018-04-21",
+            "stock_level": NumberInt(91)
+        },
+        {
+            "date": "2018-04-22",
+            "stock_level": NumberInt(91)
+        },
+        {
+            "date": "2018-04-23",
+            "stock_level": NumberInt(91)
+        },
+        {
+            "date": "2018-04-24",
+            "stock_level": NumberInt(91)
+        },
+        {
+            "date": "2018-04-25",
+            "stock_level": NumberInt(91)
+        },
+        {
+            "date": "2018-04-26",
+            "stock_level": NumberInt(90)
+        },
+        {
+            "date": "2018-04-27",
+            "stock_level": NumberInt(102)
+        },
+        {
+            "date": "2018-04-28",
+            "stock_level": NumberInt(102)
+        },
+        {
+            "date": "2018-04-29",
+            "stock_level": NumberInt(102)
+        },
+        {
+            "date": "2018-04-30",
+            "stock_level": NumberInt(99)
+        },
+        {
+            "date": "2018-05-01",
+            "stock_level": NumberInt(99)
+        },
+        {
+            "date": "2018-05-02",
+            "stock_level": NumberInt(99)
+        },
+        {
+            "date": "2018-05-03",
+            "stock_level": NumberInt(99)
+        },
+        {
+            "date": "2018-05-04",
+            "stock_level": NumberInt(99)
+        },
+        {
+            "date": "2018-05-05",
+            "stock_level": NumberInt(99)
+        },
+        {
+            "date": "2018-05-06",
+            "stock_level": NumberInt(99)
+        },
+        {
+            "date": "2018-05-07",
+            "stock_level": NumberInt(99)
+        },
+        {
+            "date": "2018-05-08",
+            "stock_level": NumberInt(99)
+        },
+        {
+            "date": "2018-05-09",
+            "stock_level": NumberInt(98)
+        },
+        {
+            "date": "2018-05-10",
+            "stock_level": NumberInt(95)
+        },
+        {
+            "date": "2018-05-11",
+            "stock_level": NumberInt(95)
+        },
+        {
+            "date": "2018-05-12",
+            "stock_level": NumberInt(95)
+        },
+        {
+            "date": "2018-05-13",
+            "stock_level": NumberInt(95)
+        },
+        {
+            "date": "2018-05-14",
+            "stock_level": NumberInt(95)
+        },
+        {
+            "date": "2018-05-15",
+            "stock_level": NumberInt(95)
+        },
+        {
+            "date": "2018-05-16",
+            "stock_level": NumberInt(95)
+        },
+        {
+            "date": "2018-05-17",
+            "stock_level": NumberInt(90)
+        },
+        {
+            "date": "2018-05-18",
+            "stock_level": NumberInt(90)
+        },
+        {
+            "date": "2018-05-19",
+            "stock_level": NumberInt(87)
+        },
+        {
+            "date": "2018-05-20",
+            "stock_level": NumberInt(84)
+        },
+        {
+            "date": "2018-05-21",
+            "stock_level": NumberInt(83)
+        },
+        {
+            "date": "2018-05-22",
+            "stock_level": NumberInt(80)
+        },
+        {
+            "date": "2018-05-23",
+            "stock_level": NumberInt(80)
+        },
+        {
+            "date": "2018-05-24",
+            "stock_level": NumberInt(80)
+        },
+        {
+            "date": "2018-05-25",
+            "stock_level": NumberInt(74)
+        },
+        {
+            "date": "2018-05-26",
+            "stock_level": NumberInt(74)
+        },
+        {
+            "date": "2018-05-27",
+            "stock_level": NumberInt(68)
+        },
+        {
+            "date": "2018-05-28",
+            "stock_level": NumberInt(68)
+        },
+        {
+            "date": "2018-05-29",
+            "stock_level": NumberInt(68)
+        },
+        {
+            "date": "2018-05-30",
+            "stock_level": NumberInt(68)
+        },
+        {
+            "date": "2018-05-31",
+            "stock_level": NumberInt(60)
+        },
+        {
+            "date": "2018-06-01",
+            "stock_level": NumberInt(60)
+        },
+        {
+            "date": "2018-06-02",
+            "stock_level": NumberInt(60)
+        },
+        {
+            "date": "2018-06-03",
+            "stock_level": NumberInt(60)
+        },
+        {
+            "date": "2018-06-04",
+            "stock_level": NumberInt(57)
+        },
+        {
+            "date": "2018-06-05",
+            "stock_level": NumberInt(54)
+        },
+        {
+            "date": "2018-06-06",
+            "stock_level": NumberInt(54)
+        },
+        {
+            "date": "2018-06-07",
+            "stock_level": NumberInt(54)
+        },
+        {
+            "date": "2018-06-08",
+            "stock_level": NumberInt(54)
+        },
+        {
+            "date": "2018-06-09",
+            "stock_level": NumberInt(54)
+        },
+        {
+            "date": "2018-06-10",
+            "stock_level": NumberInt(54)
+        },
+        {
+            "date": "2018-06-11",
+            "stock_level": NumberInt(51)
+        },
+        {
+            "date": "2018-06-12",
+            "stock_level": NumberInt(48)
+        },
+        {
+            "date": "2018-06-13",
+            "stock_level": NumberInt(48)
+        },
+        {
+            "date": "2018-06-14",
+            "stock_level": NumberInt(42)
+        },
+        {
+            "date": "2018-06-15",
+            "stock_level": NumberInt(18)
+        },
+        {
+            "date": "2018-06-16",
+            "stock_level": NumberInt(6)
+        },
+        {
+            "date": "2018-06-17",
+            "stock_level": NumberInt(6)
+        },
+        {
+            "date": "2018-06-18",
+            "stock_level": NumberInt(6)
+        },
+        {
+            "date": "2018-06-19",
+            "stock_level": NumberInt(33)
+        },
+        {
+            "date": "2018-06-20",
+            "stock_level": NumberInt(33)
+        },
+        {
+            "date": "2018-06-21",
+            "stock_level": NumberInt(33)
+        },
+        {
+            "date": "2018-06-22",
+            "stock_level": NumberInt(33)
+        },
+        {
+            "date": "2018-06-23",
+            "stock_level": NumberInt(33)
+        },
+        {
+            "date": "2018-06-24",
+            "stock_level": NumberInt(33)
+        },
+        {
+            "date": "2018-06-25",
+            "stock_level": NumberInt(27)
+        },
+        {
+            "date": "2018-06-26",
+            "stock_level": NumberInt(18)
+        },
+        {
+            "date": "2018-06-27",
+            "stock_level": NumberInt(11)
+        },
+        {
+            "date": "2018-06-28",
+            "stock_level": NumberInt(8)
+        },
+        {
+            "date": "2018-06-29",
+            "stock_level": NumberInt(32)
+        },
+        {
+            "date": "2018-06-30",
+            "stock_level": NumberInt(29)
+        },
+        {
+            "date": "2018-07-01",
+            "stock_level": NumberInt(29)
+        },
+        {
+            "date": "2018-07-02",
+            "stock_level": NumberInt(29)
+        },
+        {
+            "date": "2018-07-03",
+            "stock_level": NumberInt(26)
+        },
+        {
+            "date": "2018-07-04",
+            "stock_level": NumberInt(24)
+        },
+        {
+            "date": "2018-07-05",
+            "stock_level": NumberInt(24)
+        },
+        {
+            "date": "2018-07-06",
+            "stock_level": NumberInt(21)
+        },
+        {
+            "date": "2018-07-07",
+            "stock_level": NumberInt(18)
+        },
+        {
+            "date": "2018-07-08",
+            "stock_level": NumberInt(15)
+        },
+        {
+            "date": "2018-07-09",
+            "stock_level": NumberInt(15)
+        },
+        {
+            "date": "2018-07-10",
+            "stock_level": NumberInt(29)
+        },
+        {
+            "date": "2018-07-11",
+            "stock_level": NumberInt(26)
+        },
+        {
+            "date": "2018-07-12",
+            "stock_level": NumberInt(26)
+        },
+        {
+            "date": "2018-07-13",
+            "stock_level": NumberInt(50)
+        },
+        {
+            "date": "2018-07-14",
+            "stock_level": NumberInt(50)
+        },
+        {
+            "date": "2018-07-15",
+            "stock_level": NumberInt(50)
+        },
+        {
+            "date": "2018-07-16",
+            "stock_level": NumberInt(47)
+        },
+        {
+            "date": "2018-07-17",
+            "stock_level": NumberInt(46)
+        },
+        {
+            "date": "2018-07-18",
+            "stock_level": NumberInt(46)
+        },
+        {
+            "date": "2018-07-19",
+            "stock_level": NumberInt(46)
+        },
+        {
+            "date": "2018-07-20",
+            "stock_level": NumberInt(43)
+        },
+        {
+            "date": "2018-07-21",
+            "stock_level": NumberInt(37)
+        },
+        {
+            "date": "2018-07-22",
+            "stock_level": NumberInt(37)
+        },
+        {
+            "date": "2018-07-23",
+            "stock_level": NumberInt(37)
+        },
+        {
+            "date": "2018-07-24",
+            "stock_level": NumberInt(34)
+        },
+        {
+            "date": "2018-07-25",
+            "stock_level": NumberInt(34)
+        },
+        {
+            "date": "2018-07-26",
+            "stock_level": NumberInt(31)
+        },
+        {
+            "date": "2018-07-27",
+            "stock_level": NumberInt(31)
+        },
+        {
+            "date": "2018-07-28",
+            "stock_level": NumberInt(28)
+        },
+        {
+            "date": "2018-07-29",
+            "stock_level": NumberInt(28)
+        },
+        {
+            "date": "2018-07-30",
+            "stock_level": NumberInt(27)
+        },
+        {
+            "date": "2018-07-31",
+            "stock_level": NumberInt(27)
+        },
+        {
+            "date": "2018-08-01",
+            "stock_level": NumberInt(27)
+        },
+        {
+            "date": "2018-08-02",
+            "stock_level": NumberInt(27)
+        },
+        {
+            "date": "2018-08-03",
+            "stock_level": NumberInt(24)
+        },
+        {
+            "date": "2018-08-04",
+            "stock_level": NumberInt(16)
+        },
+        {
+            "date": "2018-08-05",
+            "stock_level": NumberInt(13)
+        },
+        {
+            "date": "2018-08-06",
+            "stock_level": NumberInt(12)
+        },
+        {
+            "date": "2018-08-07",
+            "stock_level": NumberInt(9)
+        },
+        {
+            "date": "2018-08-08",
+            "stock_level": NumberInt(9)
+        },
+        {
+            "date": "2018-08-09",
+            "stock_level": NumberInt(6)
+        },
+        {
+            "date": "2018-08-10",
+            "stock_level": NumberInt(42)
+        },
+        {
+            "date": "2018-08-11",
+            "stock_level": NumberInt(42)
+        },
+        {
+            "date": "2018-08-12",
+            "stock_level": NumberInt(42)
+        },
+        {
+            "date": "2018-08-13",
+            "stock_level": NumberInt(36)
+        },
+        {
+            "date": "2018-08-14",
+            "stock_level": NumberInt(36)
+        },
+        {
+            "date": "2018-08-15",
+            "stock_level": NumberInt(36)
+        },
+        {
+            "date": "2018-08-16",
+            "stock_level": NumberInt(36)
+        },
+        {
+            "date": "2018-08-17",
+            "stock_level": NumberInt(36)
+        },
+        {
+            "date": "2018-08-18",
+            "stock_level": NumberInt(30)
+        },
+        {
+            "date": "2018-08-19",
+            "stock_level": NumberInt(30)
+        },
+        {
+            "date": "2018-08-20",
+            "stock_level": NumberInt(27)
+        },
+        {
+            "date": "2018-08-21",
+            "stock_level": NumberInt(82)
+        },
+        {
+            "date": "2018-08-22",
+            "stock_level": NumberInt(82)
+        },
+        {
+            "date": "2018-08-23",
+            "stock_level": NumberInt(76)
+        },
+        {
+            "date": "2018-08-24",
+            "stock_level": NumberInt(76)
+        },
+        {
+            "date": "2018-08-25",
+            "stock_level": NumberInt(73)
+        },
+        {
+            "date": "2018-08-26",
+            "stock_level": NumberInt(73)
+        },
+        {
+            "date": "2018-08-27",
+            "stock_level": NumberInt(73)
+        },
+        {
+            "date": "2018-08-28",
+            "stock_level": NumberInt(73)
+        },
+        {
+            "date": "2018-08-29",
+            "stock_level": NumberInt(71)
+        },
+        {
+            "date": "2018-08-30",
+            "stock_level": NumberInt(68)
+        },
+        {
+            "date": "2018-08-31",
+            "stock_level": NumberInt(65)
+        },
+        {
+            "date": "2018-09-01",
+            "stock_level": NumberInt(65)
+        },
+        {
+            "date": "2018-09-02",
+            "stock_level": NumberInt(56)
+        },
+        {
+            "date": "2018-09-03",
+            "stock_level": NumberInt(56)
+        },
+        {
+            "date": "2018-09-04",
+            "stock_level": NumberInt(53)
+        },
+        {
+            "date": "2018-09-05",
+            "stock_level": NumberInt(53)
+        },
+        {
+            "date": "2018-09-06",
+            "stock_level": NumberInt(53)
+        },
+        {
+            "date": "2018-09-07",
+            "stock_level": NumberInt(53)
+        },
+        {
+            "date": "2018-09-08",
+            "stock_level": NumberInt(53)
+        },
+        {
+            "date": "2018-09-09",
+            "stock_level": NumberInt(53)
+        },
+        {
+            "date": "2018-09-10",
+            "stock_level": NumberInt(53)
+        },
+        {
+            "date": "2018-09-11",
+            "stock_level": NumberInt(53)
+        },
+        {
+            "date": "2018-09-12",
+            "stock_level": NumberInt(50)
+        },
+        {
+            "date": "2018-09-13",
+            "stock_level": NumberInt(50)
+        },
+        {
+            "date": "2018-09-14",
+            "stock_level": NumberInt(50)
+        },
+        {
+            "date": "2018-09-17",
+            "stock_level": NumberInt(50)
+        },
+        {
+            "date": "2018-09-18",
+            "stock_level": NumberInt(47)
+        },
+        {
+            "date": "2018-09-19",
+            "stock_level": NumberInt(44)
+        },
+        {
+            "date": "2018-09-20",
+            "stock_level": NumberInt(44)
+        },
+        {
+            "date": "2018-09-21",
+            "stock_level": NumberInt(77)
+        },
+        {
+            "date": "2018-09-22",
+            "stock_level": NumberInt(76)
+        },
+        {
+            "date": "2018-09-23",
+            "stock_level": NumberInt(76)
+        },
+        {
+            "date": "2018-09-24",
+            "stock_level": NumberInt(76)
+        },
+        {
+            "date": "2018-09-25",
+            "stock_level": NumberInt(67)
+        },
+        {
+            "date": "2018-09-26",
+            "stock_level": NumberInt(49)
+        },
+        {
+            "date": "2018-09-27",
+            "stock_level": NumberInt(40)
+        },
+        {
+            "date": "2018-09-28",
+            "stock_level": NumberInt(40)
+        },
+        {
+            "date": "2018-09-29",
+            "stock_level": NumberInt(25)
+        },
+        {
+            "date": "2018-09-30",
+            "stock_level": NumberInt(25)
+        },
+        {
+            "date": "2018-10-01",
+            "stock_level": NumberInt(25)
+        },
+        {
+            "date": "2018-10-02",
+            "stock_level": NumberInt(19)
+        },
+        {
+            "date": "2018-10-03",
+            "stock_level": NumberInt(13)
+        },
+        {
+            "date": "2018-10-04",
+            "stock_level": NumberInt(13)
+        },
+        {
+            "date": "2018-10-05",
+            "stock_level": NumberInt(13)
+        },
+        {
+            "date": "2018-10-06",
+            "stock_level": NumberInt(13)
+        },
+        {
+            "date": "2018-10-07",
+            "stock_level": NumberInt(13)
+        },
+        {
+            "date": "2018-10-08",
+            "stock_level": NumberInt(13)
+        },
+        {
+            "date": "2018-10-09",
+            "stock_level": NumberInt(7)
+        },
+        {
+            "date": "2018-10-10",
+            "stock_level": NumberInt(7)
+        },
+        {
+            "date": "2018-10-11",
+            "stock_level": NumberInt(31)
+        },
+        {
+            "date": "2018-10-12",
+            "stock_level": NumberInt(31)
+        },
+        {
+            "date": "2018-10-13",
+            "stock_level": NumberInt(31)
+        },
+        {
+            "date": "2018-10-14",
+            "stock_level": NumberInt(31)
+        },
+        {
+            "date": "2018-10-15",
+            "stock_level": NumberInt(31)
+        },
+        {
+            "date": "2018-10-16",
+            "stock_level": NumberInt(31)
+        },
+        {
+            "date": "2018-10-17",
+            "stock_level": NumberInt(31)
+        },
+        {
+            "date": "2018-10-18",
+            "stock_level": NumberInt(25)
+        },
+        {
+            "date": "2018-10-19",
+            "stock_level": NumberInt(25)
+        },
+        {
+            "date": "2018-10-20",
+            "stock_level": NumberInt(25)
+        },
+        {
+            "date": "2018-10-21",
+            "stock_level": NumberInt(25)
+        },
+        {
+            "date": "2018-10-22",
+            "stock_level": NumberInt(25)
+        },
+        {
+            "date": "2018-10-23",
+            "stock_level": NumberInt(25)
+        },
+        {
+            "date": "2018-10-24",
+            "stock_level": NumberInt(22)
+        },
+        {
+            "date": "2018-10-25",
+            "stock_level": NumberInt(10)
+        },
+        {
+            "date": "2018-10-26",
+            "stock_level": NumberInt(5)
+        },
+        {
+            "date": "2018-10-27",
+            "stock_level": NumberInt(35)
+        },
+        {
+            "date": "2018-10-28",
+            "stock_level": NumberInt(32)
+        },
+        {
+            "date": "2018-10-29",
+            "stock_level": NumberInt(28)
+        },
+        {
+            "date": "2018-10-30",
+            "stock_level": NumberInt(28)
+        },
+        {
+            "date": "2018-10-31",
+            "stock_level": NumberInt(28)
+        },
+        {
+            "date": "2018-11-01",
+            "stock_level": NumberInt(28)
+        },
+        {
+            "date": "2018-11-02",
+            "stock_level": NumberInt(28)
+        },
+        {
+            "date": "2018-11-03",
+            "stock_level": NumberInt(28)
+        },
+        {
+            "date": "2018-11-04",
+            "stock_level": NumberInt(19)
+        },
+        {
+            "date": "2018-11-05",
+            "stock_level": NumberInt(16)
+        },
+        {
+            "date": "2018-11-06",
+            "stock_level": NumberInt(22)
+        },
+        {
+            "date": "2018-11-07",
+            "stock_level": NumberInt(22)
+        },
+        {
+            "date": "2018-11-08",
+            "stock_level": NumberInt(19)
+        },
+        {
+            "date": "2018-11-09",
+            "stock_level": NumberInt(16)
+        },
+        {
+            "date": "2018-11-10",
+            "stock_level": NumberInt(16)
+        },
+        {
+            "date": "2018-11-11",
+            "stock_level": NumberInt(0)
+        },
+        {
+            "date": "2018-11-12",
+            "stock_level": NumberInt(0)
+        },
+        {
+            "date": "2018-11-13",
+            "stock_level": NumberInt(57)
+        },
+        {
+            "date": "2018-11-14",
+            "stock_level": NumberInt(54)
+        },
+        {
+            "date": "2018-11-15",
+            "stock_level": NumberInt(54)
+        },
+        {
+            "date": "2018-11-16",
+            "stock_level": NumberInt(51)
+        },
+        {
+            "date": "2018-11-17",
+            "stock_level": NumberInt(42)
+        },
+        {
+            "date": "2018-11-18",
+            "stock_level": NumberInt(42)
+        },
+        {
+            "date": "2018-11-19",
+            "stock_level": NumberInt(42)
+        },
+        {
+            "date": "2018-11-20",
+            "stock_level": NumberInt(42)
+        },
+        {
+            "date": "2018-11-21",
+            "stock_level": NumberInt(69)
+        },
+        {
+            "date": "2018-11-22",
+            "stock_level": NumberInt(69)
+        },
+        {
+            "date": "2018-11-23",
+            "stock_level": NumberInt(69)
+        },
+        {
+            "date": "2018-11-24",
+            "stock_level": NumberInt(63)
+        },
+        {
+            "date": "2018-11-25",
+            "stock_level": NumberInt(63)
+        },
+        {
+            "date": "2018-11-26",
+            "stock_level": NumberInt(60)
+        },
+        {
+            "date": "2018-11-27",
+            "stock_level": NumberInt(60)
+        },
+        {
+            "date": "2018-11-28",
+            "stock_level": NumberInt(54)
+        },
+        {
+            "date": "2018-11-29",
+            "stock_level": NumberInt(48)
+        },
+        {
+            "date": "2018-11-30",
+            "stock_level": NumberInt(45)
+        },
+        {
+            "date": "2018-12-01",
+            "stock_level": NumberInt(39)
+        },
+        {
+            "date": "2018-12-02",
+            "stock_level": NumberInt(36)
+        },
+        {
+            "date": "2018-12-03",
+            "stock_level": NumberInt(36)
+        },
+        {
+            "date": "2018-12-04",
+            "stock_level": NumberInt(39)
+        },
+        {
+            "date": "2018-12-05",
+            "stock_level": NumberInt(39)
+        },
+        {
+            "date": "2018-12-06",
+            "stock_level": NumberInt(36)
+        },
+        {
+            "date": "2018-12-07",
+            "stock_level": NumberInt(33)
+        },
+        {
+            "date": "2018-12-08",
+            "stock_level": NumberInt(33)
+        },
+        {
+            "date": "2018-12-09",
+            "stock_level": NumberInt(33)
+        },
+        {
+            "date": "2018-12-10",
+            "stock_level": NumberInt(33)
+        },
+        {
+            "date": "2018-12-11",
+            "stock_level": NumberInt(24)
+        },
+        {
+            "date": "2018-12-12",
+            "stock_level": NumberInt(24)
+        },
+        {
+            "date": "2018-12-13",
+            "stock_level": NumberInt(24)
+        },
+        {
+            "date": "2018-12-14",
+            "stock_level": NumberInt(24)
+        }
+    ],
+    "sub_category": "Haarverzorging",
+    "sub_sub_category": "Shampoo",
+    "sub_sub_sub_category": null
+}

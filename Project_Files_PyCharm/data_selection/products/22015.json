@@ -1,0 +1,1051 @@
+{ 
+    "_id" : "22015", 
+    "_preferences" : [
+        "brand.Nivea", 
+        "category.Gezond & verzorging", 
+        "gender.Vrouw", 
+        "sub_category.Lichaamsverzorging", 
+        "sub_sub_category.Deodorant", 
+        "promos.3 voor 6", 
+        "product_type.Anti-transpirant", 
+        "product_size.150 ml"
+    ], 
+    "brand" : "Nivea", 
+    "category" : "Gezond & verzorging", 
+    "color" : null, 
+    "deeplink" : "https://www.opisopvoordeelshop.nl/nivea-invisible-black-white-pure-deospray-150-ml", 
+    "description" : "Bescherming tegen witte strepen en gele vlekken in je kleding. Tot wel 48 uur bescherming tegen transpiratie. Daarnaast geeft deze deodorant een milde verzorging. Bevat geen kleurstoffen en de huidverdraagzaamheid is dermatologisch getest.&nbsp;", 
+    "fast_mover" : false, 
+    "flavor" : null, 
+    "gender" : "Vrouw", 
+    "herhaalaankopen" : true, 
+    "images" : [
+        [
+            "https://www.opisopvoordeelshop.nl/pub/media/catalog/product/cache/small_image/160x160/beff4985b56e3afdbeabfc89641a4582/2/2/22015_1_1.png", 
+            "https://www.opisopvoordeelshop.nl/pub/media/catalog/product/2/2/22015_1_1.png"
+        ]
+    ], 
+    "name" : "Nivea Invisible Black & White Pure Deospray 150 ml", 
+    "predict_out_of_stock_date" : "2018-12-23", 
+    "price" : {
+        "cost_price" : null, 
+        "deeplink" : null, 
+        "description" : null, 
+        "discount" : NumberInt(300), 
+        "id" : null, 
+        "images" : [
+
+        ], 
+        "label" : null, 
+        "mrsp" : NumberInt(229), 
+        "name" : null, 
+        "properties" : null, 
+        "recommendable" : false, 
+        "selling_price" : NumberInt(229)
+    }, 
+    "properties" : {
+        "availability" : "12", 
+        "bundel_sku" : null, 
+        "cost_price" : "12", 
+        "discount" : "3 voor 6", 
+        "doelgroep" : "Vrouwen", 
+        "eenheid" : "ml", 
+        "factor" : null, 
+        "folder_actief" : "Disabled", 
+        "gebruik" : null, 
+        "geschiktvoor" : null, 
+        "geursoort" : null, 
+        "huidconditie" : null, 
+        "huidtype" : null, 
+        "huidtypegezicht" : null, 
+        "inhoud" : "150 ml", 
+        "klacht" : "}", 
+        "kleur" : null, 
+        "leeftijd" : null, 
+        "mid" : "1360", 
+        "online_only" : null, 
+        "serie" : null, 
+        "soort" : "Spray", 
+        "soorthaarverzorging" : null, 
+        "soortmondverzorging" : null, 
+        "sterkte" : null, 
+        "stock" : "12", 
+        "tax" : "BTW_Hoog", 
+        "type" : "Anti-transpirant", 
+        "typehaarkleuring" : null, 
+        "typetandenborstel" : null, 
+        "variant" : "Invisible Black & White Pure", 
+        "waterproof" : null, 
+        "weekdeal" : false, 
+        "weekdeal_from" : null, 
+        "weekdeal_to" : null
+    }, 
+    "recommendable" : true, 
+    "rivals" : [
+        {
+            "name" : "ah.nl", 
+            "price" : NumberInt(399)
+        }, 
+        {
+            "name" : "ah.nl", 
+            "price" : NumberInt(399)
+        }, 
+        {
+            "name" : "drogist.nl", 
+            "price" : NumberInt(419)
+        }, 
+        {
+            "name" : "bol.com", 
+            "price" : NumberInt(914)
+        }
+    ], 
+    "size" : null, 
+    "sm" : {
+        "is_active" : true, 
+        "last_updated" : ISODate("2018-12-14T03:51:25.852+0000"), 
+        "rivals_updated" : "2018-12-14 03:51:25.843455", 
+        "type" : "dict"
+    }, 
+    "stock" : [
+        {
+            "date" : "2018-04-23", 
+            "stock_level" : NumberInt(56)
+        }, 
+        {
+            "date" : "2018-04-24", 
+            "stock_level" : NumberInt(62)
+        }, 
+        {
+            "date" : "2018-04-25", 
+            "stock_level" : NumberInt(62)
+        }, 
+        {
+            "date" : "2018-04-26", 
+            "stock_level" : NumberInt(62)
+        }, 
+        {
+            "date" : "2018-04-27", 
+            "stock_level" : NumberInt(68)
+        }, 
+        {
+            "date" : "2018-04-28", 
+            "stock_level" : NumberInt(68)
+        }, 
+        {
+            "date" : "2018-04-29", 
+            "stock_level" : NumberInt(74)
+        }, 
+        {
+            "date" : "2018-04-30", 
+            "stock_level" : NumberInt(65)
+        }, 
+        {
+            "date" : "2018-05-01", 
+            "stock_level" : NumberInt(65)
+        }, 
+        {
+            "date" : "2018-05-02", 
+            "stock_level" : NumberInt(65)
+        }, 
+        {
+            "date" : "2018-05-03", 
+            "stock_level" : NumberInt(62)
+        }, 
+        {
+            "date" : "2018-05-04", 
+            "stock_level" : NumberInt(62)
+        }, 
+        {
+            "date" : "2018-05-05", 
+            "stock_level" : NumberInt(56)
+        }, 
+        {
+            "date" : "2018-05-06", 
+            "stock_level" : NumberInt(56)
+        }, 
+        {
+            "date" : "2018-05-07", 
+            "stock_level" : NumberInt(55)
+        }, 
+        {
+            "date" : "2018-05-08", 
+            "stock_level" : NumberInt(55)
+        }, 
+        {
+            "date" : "2018-05-09", 
+            "stock_level" : NumberInt(55)
+        }, 
+        {
+            "date" : "2018-05-10", 
+            "stock_level" : NumberInt(55)
+        }, 
+        {
+            "date" : "2018-05-11", 
+            "stock_level" : NumberInt(55)
+        }, 
+        {
+            "date" : "2018-05-12", 
+            "stock_level" : NumberInt(55)
+        }, 
+        {
+            "date" : "2018-05-13", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-14", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-15", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-16", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-17", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-18", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-19", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-20", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-21", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-22", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-23", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-24", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-25", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-26", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-05-27", 
+            "stock_level" : NumberInt(48)
+        }, 
+        {
+            "date" : "2018-05-28", 
+            "stock_level" : NumberInt(48)
+        }, 
+        {
+            "date" : "2018-05-29", 
+            "stock_level" : NumberInt(48)
+        }, 
+        {
+            "date" : "2018-05-30", 
+            "stock_level" : NumberInt(48)
+        }, 
+        {
+            "date" : "2018-05-31", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-06-01", 
+            "stock_level" : NumberInt(54)
+        }, 
+        {
+            "date" : "2018-06-02", 
+            "stock_level" : NumberInt(51)
+        }, 
+        {
+            "date" : "2018-06-03", 
+            "stock_level" : NumberInt(51)
+        }, 
+        {
+            "date" : "2018-06-04", 
+            "stock_level" : NumberInt(48)
+        }, 
+        {
+            "date" : "2018-06-05", 
+            "stock_level" : NumberInt(44)
+        }, 
+        {
+            "date" : "2018-06-06", 
+            "stock_level" : NumberInt(44)
+        }, 
+        {
+            "date" : "2018-06-07", 
+            "stock_level" : NumberInt(44)
+        }, 
+        {
+            "date" : "2018-06-08", 
+            "stock_level" : NumberInt(44)
+        }, 
+        {
+            "date" : "2018-06-09", 
+            "stock_level" : NumberInt(44)
+        }, 
+        {
+            "date" : "2018-06-10", 
+            "stock_level" : NumberInt(38)
+        }, 
+        {
+            "date" : "2018-06-11", 
+            "stock_level" : NumberInt(38)
+        }, 
+        {
+            "date" : "2018-06-12", 
+            "stock_level" : NumberInt(35)
+        }, 
+        {
+            "date" : "2018-06-13", 
+            "stock_level" : NumberInt(35)
+        }, 
+        {
+            "date" : "2018-06-14", 
+            "stock_level" : NumberInt(32)
+        }, 
+        {
+            "date" : "2018-06-15", 
+            "stock_level" : NumberInt(32)
+        }, 
+        {
+            "date" : "2018-06-16", 
+            "stock_level" : NumberInt(32)
+        }, 
+        {
+            "date" : "2018-06-17", 
+            "stock_level" : NumberInt(32)
+        }, 
+        {
+            "date" : "2018-06-18", 
+            "stock_level" : NumberInt(32)
+        }, 
+        {
+            "date" : "2018-06-19", 
+            "stock_level" : NumberInt(20)
+        }, 
+        {
+            "date" : "2018-06-20", 
+            "stock_level" : NumberInt(20)
+        }, 
+        {
+            "date" : "2018-06-21", 
+            "stock_level" : NumberInt(20)
+        }, 
+        {
+            "date" : "2018-06-22", 
+            "stock_level" : NumberInt(5)
+        }, 
+        {
+            "date" : "2018-06-23", 
+            "stock_level" : NumberInt(5)
+        }, 
+        {
+            "date" : "2018-06-24", 
+            "stock_level" : NumberInt(5)
+        }, 
+        {
+            "date" : "2018-06-25", 
+            "stock_level" : NumberInt(5)
+        }, 
+        {
+            "date" : "2018-06-26", 
+            "stock_level" : NumberInt(2)
+        }, 
+        {
+            "date" : "2018-06-27", 
+            "stock_level" : NumberInt(0)
+        }, 
+        {
+            "date" : "2018-06-28", 
+            "stock_level" : NumberInt(4)
+        }, 
+        {
+            "date" : "2018-06-29", 
+            "stock_level" : NumberInt(17)
+        }, 
+        {
+            "date" : "2018-06-30", 
+            "stock_level" : NumberInt(17)
+        }, 
+        {
+            "date" : "2018-07-01", 
+            "stock_level" : NumberInt(17)
+        }, 
+        {
+            "date" : "2018-07-02", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-07-03", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-07-04", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-07-05", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-07-06", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-07-07", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-07-08", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-07-09", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-07-10", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-07-11", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-07-12", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-07-13", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-07-14", 
+            "stock_level" : NumberInt(14)
+        }, 
+        {
+            "date" : "2018-07-15", 
+            "stock_level" : NumberInt(14)
+        }, 
+        {
+            "date" : "2018-07-16", 
+            "stock_level" : NumberInt(14)
+        }, 
+        {
+            "date" : "2018-07-17", 
+            "stock_level" : NumberInt(14)
+        }, 
+        {
+            "date" : "2018-07-18", 
+            "stock_level" : NumberInt(11)
+        }, 
+        {
+            "date" : "2018-07-19", 
+            "stock_level" : NumberInt(11)
+        }, 
+        {
+            "date" : "2018-07-20", 
+            "stock_level" : NumberInt(8)
+        }, 
+        {
+            "date" : "2018-07-21", 
+            "stock_level" : NumberInt(8)
+        }, 
+        {
+            "date" : "2018-07-22", 
+            "stock_level" : NumberInt(8)
+        }, 
+        {
+            "date" : "2018-07-23", 
+            "stock_level" : NumberInt(8)
+        }, 
+        {
+            "date" : "2018-07-24", 
+            "stock_level" : NumberInt(5)
+        }, 
+        {
+            "date" : "2018-07-25", 
+            "stock_level" : NumberInt(5)
+        }, 
+        {
+            "date" : "2018-07-26", 
+            "stock_level" : NumberInt(2)
+        }, 
+        {
+            "date" : "2018-07-27", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-07-28", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-07-29", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-07-30", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-07-31", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-08-01", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-08-02", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-08-03", 
+            "stock_level" : NumberInt(20)
+        }, 
+        {
+            "date" : "2018-08-04", 
+            "stock_level" : NumberInt(20)
+        }, 
+        {
+            "date" : "2018-08-05", 
+            "stock_level" : NumberInt(20)
+        }, 
+        {
+            "date" : "2018-08-06", 
+            "stock_level" : NumberInt(19)
+        }, 
+        {
+            "date" : "2018-08-07", 
+            "stock_level" : NumberInt(19)
+        }, 
+        {
+            "date" : "2018-08-08", 
+            "stock_level" : NumberInt(19)
+        }, 
+        {
+            "date" : "2018-08-09", 
+            "stock_level" : NumberInt(19)
+        }, 
+        {
+            "date" : "2018-08-10", 
+            "stock_level" : NumberInt(19)
+        }, 
+        {
+            "date" : "2018-08-11", 
+            "stock_level" : NumberInt(19)
+        }, 
+        {
+            "date" : "2018-08-12", 
+            "stock_level" : NumberInt(16)
+        }, 
+        {
+            "date" : "2018-08-13", 
+            "stock_level" : NumberInt(16)
+        }, 
+        {
+            "date" : "2018-08-14", 
+            "stock_level" : NumberInt(10)
+        }, 
+        {
+            "date" : "2018-08-15", 
+            "stock_level" : NumberInt(10)
+        }, 
+        {
+            "date" : "2018-08-16", 
+            "stock_level" : NumberInt(10)
+        }, 
+        {
+            "date" : "2018-08-17", 
+            "stock_level" : NumberInt(10)
+        }, 
+        {
+            "date" : "2018-08-18", 
+            "stock_level" : NumberInt(10)
+        }, 
+        {
+            "date" : "2018-08-19", 
+            "stock_level" : NumberInt(10)
+        }, 
+        {
+            "date" : "2018-08-20", 
+            "stock_level" : NumberInt(9)
+        }, 
+        {
+            "date" : "2018-08-21", 
+            "stock_level" : NumberInt(9)
+        }, 
+        {
+            "date" : "2018-08-22", 
+            "stock_level" : NumberInt(9)
+        }, 
+        {
+            "date" : "2018-08-23", 
+            "stock_level" : NumberInt(9)
+        }, 
+        {
+            "date" : "2018-08-24", 
+            "stock_level" : NumberInt(9)
+        }, 
+        {
+            "date" : "2018-08-25", 
+            "stock_level" : NumberInt(9)
+        }, 
+        {
+            "date" : "2018-08-26", 
+            "stock_level" : NumberInt(9)
+        }, 
+        {
+            "date" : "2018-08-27", 
+            "stock_level" : NumberInt(9)
+        }, 
+        {
+            "date" : "2018-08-28", 
+            "stock_level" : NumberInt(9)
+        }, 
+        {
+            "date" : "2018-08-29", 
+            "stock_level" : NumberInt(9)
+        }, 
+        {
+            "date" : "2018-08-30", 
+            "stock_level" : NumberInt(6)
+        }, 
+        {
+            "date" : "2018-08-31", 
+            "stock_level" : NumberInt(6)
+        }, 
+        {
+            "date" : "2018-09-01", 
+            "stock_level" : NumberInt(6)
+        }, 
+        {
+            "date" : "2018-09-02", 
+            "stock_level" : NumberInt(6)
+        }, 
+        {
+            "date" : "2018-09-03", 
+            "stock_level" : NumberInt(6)
+        }, 
+        {
+            "date" : "2018-09-04", 
+            "stock_level" : NumberInt(6)
+        }, 
+        {
+            "date" : "2018-09-05", 
+            "stock_level" : NumberInt(6)
+        }, 
+        {
+            "date" : "2018-09-06", 
+            "stock_level" : NumberInt(6)
+        }, 
+        {
+            "date" : "2018-09-07", 
+            "stock_level" : NumberInt(6)
+        }, 
+        {
+            "date" : "2018-09-08", 
+            "stock_level" : NumberInt(6)
+        }, 
+        {
+            "date" : "2018-09-09", 
+            "stock_level" : NumberInt(6)
+        }, 
+        {
+            "date" : "2018-09-10", 
+            "stock_level" : NumberInt(6)
+        }, 
+        {
+            "date" : "2018-09-11", 
+            "stock_level" : NumberInt(5)
+        }, 
+        {
+            "date" : "2018-09-12", 
+            "stock_level" : NumberInt(5)
+        }, 
+        {
+            "date" : "2018-09-13", 
+            "stock_level" : NumberInt(5)
+        }, 
+        {
+            "date" : "2018-09-14", 
+            "stock_level" : NumberInt(5)
+        }, 
+        {
+            "date" : "2018-09-17", 
+            "stock_level" : NumberInt(5)
+        }, 
+        {
+            "date" : "2018-09-18", 
+            "stock_level" : NumberInt(5)
+        }, 
+        {
+            "date" : "2018-09-19", 
+            "stock_level" : NumberInt(5)
+        }, 
+        {
+            "date" : "2018-09-20", 
+            "stock_level" : NumberInt(2)
+        }, 
+        {
+            "date" : "2018-09-21", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-09-22", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-09-23", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-09-24", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-09-25", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-09-26", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-09-27", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-09-28", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-09-29", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-09-30", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-01", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-02", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-03", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-04", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-05", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-06", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-07", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-08", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-09", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-10", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-11", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-12", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-13", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-14", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-15", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-16", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-17", 
+            "stock_level" : NumberInt(26)
+        }, 
+        {
+            "date" : "2018-10-18", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-10-19", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-10-20", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-10-21", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-10-22", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-10-23", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-10-24", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-10-25", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-10-26", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-10-27", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-10-28", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-10-29", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-10-30", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-10-31", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-11-01", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-11-02", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-11-03", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-11-04", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-11-05", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-11-06", 
+            "stock_level" : NumberInt(25)
+        }, 
+        {
+            "date" : "2018-11-07", 
+            "stock_level" : NumberInt(22)
+        }, 
+        {
+            "date" : "2018-11-08", 
+            "stock_level" : NumberInt(22)
+        }, 
+        {
+            "date" : "2018-11-09", 
+            "stock_level" : NumberInt(22)
+        }, 
+        {
+            "date" : "2018-11-10", 
+            "stock_level" : NumberInt(19)
+        }, 
+        {
+            "date" : "2018-11-11", 
+            "stock_level" : NumberInt(19)
+        }, 
+        {
+            "date" : "2018-11-12", 
+            "stock_level" : NumberInt(19)
+        }, 
+        {
+            "date" : "2018-11-13", 
+            "stock_level" : NumberInt(19)
+        }, 
+        {
+            "date" : "2018-11-14", 
+            "stock_level" : NumberInt(19)
+        }, 
+        {
+            "date" : "2018-11-15", 
+            "stock_level" : NumberInt(19)
+        }, 
+        {
+            "date" : "2018-11-16", 
+            "stock_level" : NumberInt(16)
+        }, 
+        {
+            "date" : "2018-11-17", 
+            "stock_level" : NumberInt(13)
+        }, 
+        {
+            "date" : "2018-11-18", 
+            "stock_level" : NumberInt(13)
+        }, 
+        {
+            "date" : "2018-11-19", 
+            "stock_level" : NumberInt(13)
+        }, 
+        {
+            "date" : "2018-11-20", 
+            "stock_level" : NumberInt(13)
+        }, 
+        {
+            "date" : "2018-11-21", 
+            "stock_level" : NumberInt(1)
+        }, 
+        {
+            "date" : "2018-11-22", 
+            "stock_level" : NumberInt(1)
+        }, 
+        {
+            "date" : "2018-11-23", 
+            "stock_level" : NumberInt(1)
+        }, 
+        {
+            "date" : "2018-11-24", 
+            "stock_level" : NumberInt(0)
+        }, 
+        {
+            "date" : "2018-11-25", 
+            "stock_level" : NumberInt(0)
+        }, 
+        {
+            "date" : "2018-11-26", 
+            "stock_level" : NumberInt(0)
+        }, 
+        {
+            "date" : "2018-11-27", 
+            "stock_level" : NumberInt(0)
+        }, 
+        {
+            "date" : "2018-11-28", 
+            "stock_level" : NumberInt(24)
+        }, 
+        {
+            "date" : "2018-11-29", 
+            "stock_level" : NumberInt(24)
+        }, 
+        {
+            "date" : "2018-11-30", 
+            "stock_level" : NumberInt(24)
+        }, 
+        {
+            "date" : "2018-12-01", 
+            "stock_level" : NumberInt(24)
+        }, 
+        {
+            "date" : "2018-12-02", 
+            "stock_level" : NumberInt(24)
+        }, 
+        {
+            "date" : "2018-12-03", 
+            "stock_level" : NumberInt(24)
+        }, 
+        {
+            "date" : "2018-12-04", 
+            "stock_level" : NumberInt(24)
+        }, 
+        {
+            "date" : "2018-12-05", 
+            "stock_level" : NumberInt(24)
+        }, 
+        {
+            "date" : "2018-12-06", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-12-07", 
+            "stock_level" : NumberInt(15)
+        }, 
+        {
+            "date" : "2018-12-08", 
+            "stock_level" : NumberInt(12)
+        }, 
+        {
+            "date" : "2018-12-09", 
+            "stock_level" : NumberInt(12)
+        }, 
+        {
+            "date" : "2018-12-10", 
+            "stock_level" : NumberInt(12)
+        }, 
+        {
+            "date" : "2018-12-11", 
+            "stock_level" : NumberInt(12)
+        }, 
+        {
+            "date" : "2018-12-12", 
+            "stock_level" : NumberInt(12)
+        }, 
+        {
+            "date" : "2018-12-13", 
+            "stock_level" : NumberInt(12)
+        }, 
+        {
+            "date" : "2018-12-14", 
+            "stock_level" : NumberInt(12)
+        }
+    ], 
+    "sub_category" : "Lichaamsverzorging", 
+    "sub_sub_category" : "Deodorant", 
+    "sub_sub_sub_category" : null
+}
+ 

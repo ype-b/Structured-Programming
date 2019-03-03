@@ -1,0 +1,62 @@
+{ 
+    "_id" : ObjectId("5afd4066cefbac000121a8a3"), 
+    "buids" : [
+        "r370vHlnp9l5TPPZPqSC9ykzDBH0K3saQ6nte3dOJHrtl2L87AOZoG8CzPteHtRPmiCl", 
+        "r382J5fByvKWg0t4jD35ZNZjhoQG7fxfS1Mt336XyZjFWMr6vGe9Y4RiEP11KyAnAt8D"
+    ], 
+    "sm" : {
+        "created" : ISODate("2018-05-17T08:42:14.789+0000"), 
+        "created_by" : "_VisitorProfileNawt"
+    }, 
+    "nawt" : {
+    }, 
+    "latest_activity" : ISODate("2018-12-14T15:18:45.023+0000"), 
+    "meta" : {
+        "has_utm_hash" : false, 
+        "has_device" : true, 
+        "has_email" : true, 
+        "random" : 0.829905874094808
+    }, 
+    "recommendations" : {
+        "timestamp" : ISODate("2018-12-14T03:32:52.154+0000"), 
+        "segment" : "BROWSER", 
+        "viewed_before" : [
+            "34118"
+        ], 
+        "similars" : [
+            "1475", 
+            "32495", 
+            "5744", 
+            "1697", 
+            "21775"
+        ], 
+        "latest_visit" : ISODate("2018-12-09T11:52:46.537+0000"), 
+        "total_pageview_count" : NumberInt(1), 
+        "total_viewed_count" : NumberInt(1)
+    }, 
+    "previously_recommended" : [
+        "40280", 
+        "41755", 
+        "41759", 
+        "21492", 
+        "21490", 
+        "21391", 
+        "1696", 
+        "16975", 
+        "35774", 
+        "41769", 
+        "32493", 
+        "8695", 
+        "3079", 
+        "24651", 
+        "24581", 
+        "1475", 
+        "5744", 
+        "29040", 
+        "32495", 
+        "21775", 
+        "32488", 
+        "1697"
+    ]
+}
+ 

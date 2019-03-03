@@ -1,0 +1,28 @@
+<!doctype html>
+
+<html>
+
+<meta charset="UTF-8">
+<title>Recently Viewed Products</title>
+<script src="javascript/webfunctions.js"></script>
+
+<body onload="loadRecentlyViewedProducts()">
+    <h3>Recently Viewed Products:</h3>
+
+    <table id="products" style="text-align: left">
+
+        <form name="invoerformulier">
+            <input type="text" name="session_id"/>
+            <input type="button" name="button" value="toon mijn producten" onclick="loadMyProducts()"/>
+        </form>
+
+        <tr>
+            <th>Id</th>
+            <th>Brand</th>
+            <th>Category</th>
+            <th>Deeplink</th>
+        </tr>
+    </table>
+</body>
+
+</html>

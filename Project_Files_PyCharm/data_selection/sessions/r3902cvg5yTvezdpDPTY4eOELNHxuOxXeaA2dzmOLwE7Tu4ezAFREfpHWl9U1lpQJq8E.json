@@ -1,0 +1,157 @@
+{ 
+    "_id" : "812f6d39-0006-4937-a2ea-978be4694b05-1544800515106", 
+    "buid" : [
+        "r3902cvg5yTvezdpDPTY4eOELNHxuOxXeaA2dzmOLwE7Tu4ezAFREfpHWl9U1lpQJq8E"
+    ], 
+    "user_agent" : {
+        "os" : {
+            "familiy" : "Windows", 
+            "version" : [
+                NumberInt(10)
+            ], 
+            "version_string" : "10"
+        }, 
+        "browser" : {
+            "familiy" : "Chrome", 
+            "version" : [
+                NumberInt(70), 
+                NumberInt(0), 
+                NumberInt(3538)
+            ], 
+            "version_string" : "70.0.3538"
+        }, 
+        "device" : {
+            "family" : "Other", 
+            "brand" : null, 
+            "model" : null
+        }, 
+        "flags" : {
+            "is_bot" : false, 
+            "is_email_client" : false, 
+            "is_mobile" : false, 
+            "is_pc" : true, 
+            "is_tablet" : false, 
+            "is_touch_capable" : false
+        }, 
+        "accept" : {
+            "language" : "nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7", 
+            "protocols" : "application/json, text/javascript, */*; q=0.01"
+        }, 
+        "identifier" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+    }, 
+    "session_start" : ISODate("2018-12-14T15:17:10.625+0000"), 
+    "session_end" : ISODate("2018-12-14T15:18:34.809+0000"), 
+    "has_sale" : false, 
+    "order" : {
+        "total" : null, 
+        "id" : null
+    }, 
+    "cg_treated" : false, 
+    "tg_treated" : true, 
+    "events" : [
+        {
+            "t" : ISODate("2018-12-14T15:17:10.625+0000"), 
+            "source" : "eventtracker", 
+            "action" : "session_start", 
+            "pagetype" : null, 
+            "product" : null, 
+            "time_on_page" : null, 
+            "max_time_inactive" : null, 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:17:21.454+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : "36111", 
+            "time_on_page" : null, 
+            "max_time_inactive" : null, 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:17:26.193+0000"), 
+            "source" : "eventtracker", 
+            "action" : "tg_load_recommendation", 
+            "pagetype" : null, 
+            "product" : null, 
+            "time_on_page" : null, 
+            "max_time_inactive" : null, 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:17:40.073+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : "36111", 
+            "time_on_page" : null, 
+            "max_time_inactive" : null, 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }, 
+        {
+            "t" : ISODate("2018-12-14T15:18:34.809+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "DP", 
+            "product" : null, 
+            "time_on_page" : NumberInt(0), 
+            "max_time_inactive" : NumberInt(0), 
+            "click_count" : null, 
+            "elements_clicked" : NumberInt(0), 
+            "scrolls_down" : null, 
+            "scrolls_up" : null
+        }
+    ], 
+    "segment" : "BROWSER", 
+    "clean_cg_tg" : "cg", 
+    "preferences" : {
+        "brand" : {
+            "Mullrose" : {
+                "views" : NumberInt(2)
+            }
+        }, 
+        "category" : {
+            "Huishouden" : {
+                "views" : NumberInt(2)
+            }
+        }, 
+        "gender" : {
+            "Unisex" : {
+                "views" : NumberInt(2)
+            }
+        }, 
+        "sub_category" : {
+            "Overig huishoudelijk" : {
+                "views" : NumberInt(2)
+            }
+        }, 
+        "sub_sub_category" : {
+            "Overige huishoudelijke artikelen" : {
+                "views" : NumberInt(2)
+            }
+        }, 
+        "promos" : {
+            "3 voor 5" : {
+                "views" : NumberInt(2)
+            }
+        }, 
+        "product_size" : {
+            "1000 ml" : {
+                "views" : NumberInt(2)
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+<!doctype html>
+
+<html>
+
+<meta charset="UTF-8">
+<title>Product recommendations</title>
+<script src="javascript/webfunctions.js"></script>
+
+<body> <!--onload="loadProductRecommendations()"-->
+    <h3>product recommendations:</h3>
+
+    <table id="products" style="text-align: left">
+        <form name="userlogin">
+            <input type="text" name="login_id"/>
+            <input type="button" name="button" value="log in" onclick="loadProductRecommendations()">
+        </form>
+        <tr>
+            <th>Id</th>
+            <th>Brand</th>
+            <th>Category</th>
+            <th>Deeplink</th>
+        </tr>
+    </table>
+</body>
+
+</html>

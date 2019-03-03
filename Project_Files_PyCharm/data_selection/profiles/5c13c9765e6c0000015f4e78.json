@@ -1,0 +1,18 @@
+{ 
+    "_id" : ObjectId("5c13c9765e6c0000015f4e78"), 
+    "buids" : [
+        "r3902cvg5yTvezdpDPTY4eOELNHxuOxXeaA2dzmOLwE7Tu4ezAFREfpHWl9U1lpQJq8E"
+    ], 
+    "sm" : {
+        "created" : ISODate("2018-12-14T15:17:10.741+0000"), 
+        "created_by" : "_VisitorProfileNawt"
+    }, 
+    "meta" : {
+        "has_device" : true, 
+        "has_email" : false, 
+        "has_utm_hash" : false, 
+        "random" : 0.2694251089857551
+    }, 
+    "latest_activity" : ISODate("2018-12-14T15:18:34.809+0000")
+}
+ 

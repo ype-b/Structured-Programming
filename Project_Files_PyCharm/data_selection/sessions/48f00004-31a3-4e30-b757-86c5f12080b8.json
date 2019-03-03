@@ -1,0 +1,536 @@
+{ 
+    "_id" : "48f00004-31a3-4e30-b757-86c5f12080b8", 
+    "buid" : [
+        "r341TmoDKGyPQeXaKtXodC8Mlcx0j70stIq6wgekBjZvDSBlmw2or5eT3ar8WR68c0K1"
+    ], 
+    "user_agent" : {
+        "os" : {
+            "familiy" : "iOS", 
+            "version" : [
+                NumberInt(11), 
+                NumberInt(1), 
+                NumberInt(2)
+            ], 
+            "version_string" : "11.1.2"
+        }, 
+        "browser" : {
+            "familiy" : "Mobile Safari", 
+            "version" : [
+                NumberInt(11), 
+                NumberInt(0)
+            ], 
+            "version_string" : "11.0"
+        }, 
+        "device" : {
+            "family" : "iPhone", 
+            "brand" : "Apple", 
+            "model" : "iPhone"
+        }, 
+        "flags" : {
+            "is_bot" : false, 
+            "is_email_client" : false, 
+            "is_mobile" : true, 
+            "is_pc" : false, 
+            "is_tablet" : false, 
+            "is_touch_capable" : true
+        }, 
+        "accept" : {
+            "language" : "nl-nl", 
+            "protocols" : "application/json, text/javascript, */*; q=0.01"
+        }
+    }, 
+    "session_start" : ISODate("2017-12-19T15:42:44.341+0000"), 
+    "session_end" : ISODate("2018-01-03T16:34:14.337+0000"), 
+    "has_sale" : true, 
+    "events" : [
+        {
+            "t" : ISODate("2017-12-19T15:42:44.341+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T15:42:53.587+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T15:43:43.981+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T15:44:17.128+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T15:44:18.223+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T15:44:50.708+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:27:15.842+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:27:33.882+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:27:45.196+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:27:49.594+0000"), 
+            "source" : "eventtracker", 
+            "action" : "add_to_cart", 
+            "pagetype" : null, 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:28:04.671+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:28:04.858+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:28:09.707+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:28:11.873+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:28:29.569+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:28:42.486+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:28:50.713+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:29:10.000+0000"), 
+            "source" : "eventtracker", 
+            "action" : "add_to_cart", 
+            "pagetype" : null, 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:29:33.004+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:29:45.165+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:30:00.301+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:30:14.546+0000"), 
+            "source" : "eventtracker", 
+            "action" : "add_to_cart", 
+            "pagetype" : null, 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:30:26.694+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:30:29.044+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:30:50.011+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:30:56.861+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:31:24.667+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:31:35.553+0000"), 
+            "source" : "eventtracker", 
+            "action" : "add_to_cart", 
+            "pagetype" : null, 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:31:55.087+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:31:55.970+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:32:22.523+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:32:31.446+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:32:50.195+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:33:08.147+0000"), 
+            "source" : "eventtracker", 
+            "action" : "add_to_cart", 
+            "pagetype" : null, 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:33:21.430+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:33:22.591+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:34:21.632+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:34:31.006+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:34:59.393+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:35:21.531+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:35:48.178+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "INF", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:36:28.544+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:37:01.429+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:38:05.365+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:38:15.474+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "INF", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:39:35.330+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "FIL", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:41:38.844+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:41:40.987+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:42:10.861+0000"), 
+            "source" : "eventtracker", 
+            "action" : "add_to_cart", 
+            "pagetype" : null, 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:42:36.966+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:42:38.174+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:42:48.568+0000"), 
+            "source" : "eventtracker", 
+            "action" : "add_to_cart", 
+            "pagetype" : null, 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:43:51.108+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "DP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:44:23.266+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "FIL", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:45:11.036+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:45:38.330+0000"), 
+            "source" : "eventtracker", 
+            "action" : "add_to_cart", 
+            "pagetype" : null, 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:45:48.104+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "LP", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:45:48.832+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "SC1", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:45:57.182+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "SC1", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:46:10.328+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "SC2", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:46:10.762+0000"), 
+            "source" : "eventtracker", 
+            "action" : "profile", 
+            "pagetype" : "SC1", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:47:29.904+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "SC1", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:51:01.916+0000"), 
+            "source" : "eventtracker", 
+            "action" : "stats", 
+            "pagetype" : "SC2", 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2017-12-19T18:51:02.577+0000"), 
+            "source" : "salestracker", 
+            "action" : "checkout", 
+            "pagetype" : null, 
+            "product" : null
+        }, 
+        {
+            "t" : ISODate("2018-01-03T16:34:14.337+0000"), 
+            "source" : "salestracker", 
+            "action" : "checkout", 
+            "pagetype" : null, 
+            "product" : null
+        }
+    ], 
+    "order" : {
+        "products" : [
+            {
+                "id" : "22015"
+            }, 
+            {
+                "id" : "29816"
+            }, 
+            {
+                "id" : "2583"
+            }, 
+            {
+                "id" : "24034"
+            }, 
+            {
+                "id" : "16791"
+            }, 
+            {
+                "id" : "42677"
+            }, 
+            {
+                "id" : "5161"
+            }, 
+            {
+                "id" : "43104"
+            }
+        ], 
+        "id" : "100103821", 
+        "payment_method" : null, 
+        "total" : NumberInt(4386), 
+        "taxes" : null
+    }, 
+    "cg_treated" : false, 
+    "tg_treated" : false
+}
