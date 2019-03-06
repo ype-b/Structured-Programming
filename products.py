@@ -1,0 +1,165 @@
+import pymongo
+
+client = pymongo.MongoClient("mongodb://localhost:27017")
+db = client['_opop_db']
+
+def loadCollectionIntoList(collection, amount = -1):
+    cursor = db[collection].find()
+    return_list = []
+
+    if amount == -1:
+        for x in cursor:
+            return_list.append(x)
+    else:
+        for x in range(0, amount):
+            return_list.append(cursor[x])
+
+    print("{} LOADED".format(collection))
+
+    return return_list
+
+
+def getPopularProducts():
+    return [
+        { "_id": "23978", "brand": "8x4", "category": "Gezond & verzorging", "deeplink": "https://www.opisopvoordeelshop.nl/8x4-men-men-beast-deospray-150ml" },
+        { "_id": "7225", "brand": "8x4", "category": "Gezond & verzorging", "deeplink": "https://www.opisopvoordeelshop.nl/8x4-heavenly-deospray-150ml" },
+        { "_id": "29438", "brand": "1Auto", "category": "Wonen & vrije tijd", "deeplink": "https://www.opisopvoordeelshop.nl/1auto-ruitensproeiervloeistof-zomer-4000ml" },
+        { "_id": "9196", "brand": "8x4", "category": "Gezond & verzorging", "deeplink": "https://www.opisopvoordeelshop.nl/8x4-for-men-urban-spirit-150-ml"},
+        { "_id": "8570", "brand": "8x4", "category": "Gezond & verzorging", "deeplink": "https://www.opisopvoordeelshop.nl/8x4-unity-150-ml"},
+        { "_id": "22309", "brand": "Agfa", "category": "Elektronica & media", "deeplink": "https://www.opisopvoordeelshop.nl/afgaphoto-alkaline-power-batterijen-aa-4-stuks"}
+    ]
+
+def getRecentProducts():
+    return [
+        {"_id": "9196", "brand": "8x4", "category": "Gezond & verzorging", "deeplink": "https://www.opisopvoordeelshop.nl/8x4-for-men-urban-spirit-150-ml"},
+        {"_id": "8570", "brand": "8x4", "category": "Gezond & verzorging", "deeplink": "https://www.opisopvoordeelshop.nl/8x4-unity-150-ml"}
+    ]
+
+def getPersonalProducts(session):
+    print("Recommendations for session: {}".format(session['sessionId']))
+    return [
+        {"_id": "9196", "brand": "8x4", "category": "Gezond & verzorging", "deeplink": "https://www.opisopvoordeelshop.nl/8x4-for-men-urban-spirit-150-ml"},
+        {"_id": "8570", "brand": "8x4", "category": "Gezond & verzorging", "deeplink": "https://www.opisopvoordeelshop.nl/8x4-unity-150-ml"},
+        {"_id": "22309", "brand": "Agfa", "category": "Elektronica & media", "deeplink": "https://www.opisopvoordeelshop.nl/afgaphoto-alkaline-power-batterijen-aa-4-stuks"}
+    ]
+
+def getProduct(input_id):
+    print("Recommendations for session: {}".format(input_id['sessionId']))
+    productlist = loadCollectionIntoList('products', 10)
+
+    for x in len(productlist):
+        if productlist[x].get("_id") == input_id.get("sessionID"):
+            return [productlist[x]]
+
+    return []
+
+def findItem(collection, parameter, query):
+    for x in range(0, len(collection)):
+        if str(collection[x].get(parameter)) == str(query):
+            return collection[x]
+    print("NOT FOUND")
+
+    return []
+
+def getRecommendedProducts(data):
+    visitor_list = findItem(loadCollectionIntoList('visitors', 20), '_id', data.get("loginId"))
+    recommendation_list = visitor_list.get('recommendations').get('similars')
+    products = loadCollectionIntoList('products')
+    return_list = []
+
+    for product in products:
+        if product.get("_id") in recommendation_list:
+            return_list.append(product)
+
+    return return_list
+
+def getProductsOOS():
+    productlist = loadCollectionIntoList('products')
+    return_list = []
+
+    for x in range(0, len(productlist)):
+        try:
+            if productlist[x].get("properties").get("availability") == "0":
+                return_list.append(productlist[x])
+        except AttributeError:
+            pass
+
+    return return_list
+
+def getSimilarProducts(data):
+    productlist = loadCollectionIntoList('products')
+    product = findItem(productlist, '_id', data.get("productId"))
+    property_x = product.get("properties")
+    return_list = []
+    exceptions = ["availability", "klacht", "tax", "inhoud", "mid", "online_only", "shopcart_promo_item", "shopcart_promo_price", "stock"]
+
+    for key in exceptions:
+        property_x.pop(key)
+
+    for x in range(0, len(productlist)):
+        if product.get("_id") == productlist[x].get("_id"):
+            continue
+
+        points = 0
+        property_y = productlist[x].get("properties")
+
+        for property in property_x:
+            try:
+                if property_x.get(property) == property_y.get(property):
+                    if property_x.get(property) is not None:
+                        points += 1
+            except AttributeError:
+                pass
+
+        if points >= 7:
+            return_list.append(productlist[x])
+
+    return return_list
+
+
+def TESTEROO():
+    productlist = loadCollectionIntoList('products', 1)
+    product = findItem(productlist, '_id', "23978")
+    property_x = product.get("properties")
+    exceptions = ["availability", "klacht", "tax", "inhoud", "mid", "online_only", "shopcart_promo_item",
+                  "shopcart_promo_price", "stock"]
+
+    counter = 0
+
+    for property in property_x:
+        counter += 1
+        # print(property)
+        # print(property_x.get(property))
+
+    print("BEFORE: {}".format(counter))
+
+
+    print(property_x.get("online_only"))
+    for key in property_x:
+        if property_x.get(key) is None:
+            exceptions.append(key)
+
+
+    for x in range(len(exceptions)):
+        property_x.pop(exceptions[x])
+
+    counter = 0
+    for property in property_x:
+        counter += 1
+        # print(property)
+        # print(property_x.get(property))
+    '''
+    for key in property_x:
+        if property_x.get(key) is None:
+            property_x.pop(key)
+'''
+    counter = 0
+    for property in property_x:
+        counter += 1
+        # print(property)
+        # print(property_x.get(property))
+
+    print("\n\n\nAFTER: {}".format(counter))
+
+
+#TESTEROO()
