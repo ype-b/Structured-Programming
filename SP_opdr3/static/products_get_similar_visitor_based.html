@@ -1,0 +1,26 @@
+<!doctype html>
+
+<html>
+
+<meta charset="UTF-8">
+<title>Recommendation based on similar visitors</title>
+<script src="javascript/webfunctions.js"></script>
+
+<body>
+    <h3>Recommendation based on similar visitors:</h3>
+
+    <table id="products" style="text-align: left">
+        <form name="visitorsearch">
+            <input type="text" name="visitor_id"/>
+            <input type="button" name="button" value="zoek naar je profiel" onclick="loadSimmilarVisitors()">
+        </form>
+        <tr>
+            <th>Id</th>
+            <th>Brand</th>
+            <th>Category</th>
+            <th>Deeplink</th>
+        </tr>
+    </table>
+</body>
+
+</html>
